@@ -1,2 +1,5 @@
 # Netflix_Data_Analysis
-I've done the analysis of Netflix dataset and created different graphs and charts for easy understanding. I did this using Numpy, Pandas and Matplotlib.
+This project performs Exploratory Data Analysis (EDA) on the Netflix dataset using Python, Pandas, NumPy, and Matplotlib.
+The goal is to analyze Netflix content and uncover insights related to movies, TV shows, release trends, ratings, and durations through data cleaning and visualization.
+
+
