@@ -94,8 +94,5 @@ The objective of this project is to understand Netflix's content library and ide
 - Country-wise content
 - Movies vs TV Shows over time
 
-## 👩‍💻 Author
-
-**Nandini Singh**
 
 GitHub: https://github.com/Nandini776
